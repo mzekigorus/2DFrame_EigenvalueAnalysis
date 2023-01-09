@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
 
 import openseespy.opensees as ops
 import numpy as np
@@ -118,7 +113,6 @@ opsv.plot_mode_shape(1)
 #opsv.plot_mode_shape(3)
 
 
-# In[ ]:
 
 
 
