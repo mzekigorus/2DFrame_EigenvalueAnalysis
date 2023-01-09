@@ -1,4 +1,4 @@
-# 2DFrame_EigenvalueAnalysis
+# Eigenvalue Analysis of Planar Frame 
 
 In this self-study , I code a basic script to calculate and verify free vibration(eigenvalue)analysis which gives the natural vibration properties based on the distribution of stiffness and mass and also, I want to show OpenSees can give the same periods and mode shapes reported in the ETABS verification example.
 
